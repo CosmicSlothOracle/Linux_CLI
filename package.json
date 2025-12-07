@@ -1,0 +1,19 @@
+{
+  "name": "linux-cli-quiz-test",
+  "version": "1.0.0",
+  "description": "Automated test for Linux CLI Quiz",
+  "main": "run_test_node.js",
+  "scripts": {
+    "test": "node run_test_node.js"
+  },
+  "keywords": [
+    "quiz",
+    "test",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.11.0"
+  }
+}
